@@ -1,0 +1,56 @@
+Liquidity		
+x1		(Cash+Mark.Sec)/Current Liabilities
+x2		(Cash+Mark.Sec)/Total Sales
+x3		Cash/Current Assets
+x4		Cash/Total Assets
+x5		Current Assets/Current Liabilities
+x6		Current Assets/Total Assets
+x7		Current Liabilities/Total Assets
+x8		Current Liabilities/Total Sales
+x9		Inventories/Total Assets
+x10		Quick Assets/Current Liabilities
+x11		Quick Assets/Total Assets
+x12		Working Capital/Total Assets
+x13		Working Capital/Total Sales
+Solvency		
+x14		Financial Debt/Cash Flow
+x15		Financial Expenses/EBITDA
+x16		Financial Expenses/Net Income
+x17		Financial Expenses/Total Assets
+x18		Financial Expenses/Value Added
+Profitability		
+x19		Cash Flow/Shareholder Funds
+x20		Cash Flow/Total Assets
+x21		EBIT/Shareholder Funds
+x22		EBIT/Total Assets
+x23		EBITDA/Permanent Equity
+x24		EBITDA/Total Assets
+x25		Net Income/Shareholder Funds
+x26		Net Income/Total Assets
+x27		Profit before Tax/Shareholder Funds
+Financial Structure		
+x28		Long Term Debt/Shareholder Funds
+x29		Long Term Debt/Total Assets
+x30		Net Op.Work.Capital/Total Assets
+x31		Shareholder Funds/Permanent Equity
+x32		Shareholder Funds/Total Assets
+x33		Total Debt/Shareholder Funds
+x34		Total Debt/Total Assets
+Activity		
+x35		Cash Flow/Total Sales
+x36		Cash Flow/Value Added
+x37		EBIT/Value Added
+x38		EBITDA/Total Sales
+x39		Gross Trading Profit/Total Sales
+x40		Net Income/Total Sales
+x41		Net Income/Value Added
+x42		Value Added/Fixed Assets
+x43		Value Added/Total Assets
+x44		Value Added/Total Sales
+Turnover		
+x45		Accounts Payable/Total Sales
+x46		Current Assets/Total Sales
+x47		Inventories/Total Sales
+x48		Net.Op.Work.Capital/Total Sales
+x49		Receivables/Total Sales
+x50		Total Sales/Total Assets
